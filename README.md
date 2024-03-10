@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sakshipandey2601/sakshipandey2601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 👋 Hello there, I'm Sakshi!
+
+- 🎓 Computer Applications student based in India.
+- 🌱 Passionate about technology and always eager to learn new things.
+- 💻 Interested in exploring and discussing future-proof skills.
+- 🎯 Working towards becoming a self-independent person.
+
+Feel free to connect and let's share our knowledge and experiences! 🚀
+
