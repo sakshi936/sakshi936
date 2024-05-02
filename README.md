@@ -28,7 +28,10 @@ Feel free to connect and let's share our knowledge and experiences! 🚀
 
 <h1 align="center">Hi 👋, I'm Sakshi Pandey</h1>
 <h3 align="center">I am a student at the IPS Academy, Indore, pursuing my MCA (Master's in Computer Application).</h3>
-
+- 🎓 Computer Applications student based in India.
+- 🌱 Passionate about technology and always eager to learn new things.
+- 💻 Interested in exploring and discussing future-proof skills.
+- 🎯 Working towards becoming a self-independent person.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sakshi6392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi6392" height="30" width="40" /></a>
