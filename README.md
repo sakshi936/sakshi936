@@ -98,8 +98,7 @@ Feel free to connect and let's share our knowledge and experiences! 🚀
 
 ###
 
-<div align="center">
-  <img height="200" src=""  />
-</div>
+
+<img src="https://raw.githubusercontent.com/sakshi963/sakshi963/output/snake.svg" alt="Snake animation" />
 
 ###
