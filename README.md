@@ -99,6 +99,6 @@ Feel free to connect and let's share our knowledge and experiences! 🚀
 ###
 
 
-<img src="https://raw.githubusercontent.com/sakshi963/sakshi963/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sakshi936/sakshi936/output/snake.svg" alt="Snake animation" />
 
 ###
