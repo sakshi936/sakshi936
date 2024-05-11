@@ -48,7 +48,7 @@ Feel free to connect and let's share our knowledge and experiences! 🚀
 
 ###
 
-<p align="left">I'm a student of MCA from RGPV University, Bhopal<br><br>- 🎓 Computer Applications student based in India.<br>- 🌱 Passionate about technology and always eager to learn new things.<br>- 💻 Interested in exploring and discussing future-proof skills.<br>- 🎯 Working towards becoming a self-independent person.</p>
+<p align="left">Student of MCA at RGPV University, Bhopal<br><br>- 🎓 Computer Applications student based in India.<br>- 🌱 Passionate about technology and always eager to learn new things.<br>- 💻 Interested in exploring and discussing future-proof skills.<br>- 🎯 Working towards becoming a self-independent person.</p>
 
 ###
 
