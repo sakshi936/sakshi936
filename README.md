@@ -22,7 +22,7 @@
       <li>🥰 I love building responsive and interactive web applications using modern web technologies</li>
       <li>💻 Interested in exploring and discussing future-proof skills.</li>
       <li>🎯 Working towards becoming a self-independent person.</li>
-      <li>📫 How to reach me <a href='@sakshipandey2601@gmail.com'>@sakshipandey2601@gmail.com</a></li>
+      <li>📫 How to reach me <a href='mailto:@sakshipandey2601@gmail.com'>@sakshipandey2601@gmail.com</a></li>
     </ul>
 ###
 
