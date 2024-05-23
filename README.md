@@ -15,8 +15,6 @@
 <ul>
   
 </ul>
-  
-I'm a passionate front-end developer from India, currently diving deep into the world of React. I love building responsive and interactive web applications using modern web technologies.
 
 <ul>
       <li>👩‍💻 I'm a passionate front-end developer</li>
@@ -24,7 +22,7 @@ I'm a passionate front-end developer from India, currently diving deep into the 
       <li>🥰 I love building responsive and interactive web applications using modern web technologies</li>
       <li>💻 Interested in exploring and discussing future-proof skills.</li>
       <li>🎯 Working towards becoming a self-independent person.</li>
-      <li>📫 How to reach me @sakshipandey2601@gmail.com</li>
+      <li>📫 How to reach me <a href='@sakshipandey2601@gmail.com'>@sakshipandey2601@gmail.com</a></li>
     </ul>
 ###
 
