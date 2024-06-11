@@ -39,7 +39,7 @@
  </div> 
     
   <div flex>
-<img src="https://img.shields.io/badge/REACTJS-%2320232a.svg?logo=react&amp;logoColor=white" alt="">
+<img src="https://img.shields.io/badge/REACTJS-%2320232a.svg?logo=react&amp;logoColor=white" alt="" width="25">
 <img src="https://img.shields.io/badge/TAILWIND%20CSS-%2338B2AC.svg?logo=tailwind-css&amp;logoColor=white" alt="">
 <img src="https://img.shields.io/badge/GITHUB-%23121011.svg?logo=github&amp;logoColor=white" alt="">
 
