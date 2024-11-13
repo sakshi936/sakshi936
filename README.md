@@ -18,7 +18,7 @@
 
 <ul>
       <li>👩‍💻 I'm a passionate front-end developer</li>
-      <li>🔭 currently diving deep into the world of React</li>
+      <li>🔭 currently diving deep into the world of Node.js</li>
       <li>🥰 I love building responsive and interactive web applications using modern web technologies</li>
       <li>💻 Interested in exploring and discussing future-proof skills.</li>
       <li>🎯 Working towards becoming a self-independent person.</li>
